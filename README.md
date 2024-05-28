@@ -1,11 +1,15 @@
 # Cat-Hub-Ui-library
 you is finishing?
 
-```-- Import Cat Hub UI library
-local CatHubUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/1ForeverHD/CatHub/main/Main.lua"))()
 
--- Create a new window
-local window = CatHubUI.CreateWindow("My Custom Script", UDim2.new(0, 300, 0, 200))
+# Cat Hub Ui Library Loadstring
+```-- Import Cat Hub UI library
+local CatHubUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/1ForeverHD/CatHub/main/Main.lua"))()```
+
+
+# create a window!
+```-- Create a new window
+local window = CatHubUI.CreateWindow("My Custom Script", UDim2.new(0, 300, 0, 200))```
 
 -- Create a tab
 local tab = window.CreateTab("Settings")
