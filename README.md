@@ -53,4 +53,3 @@ end)
 
 -- Boot the UI library
 CatHubUI.Boot()
-```
